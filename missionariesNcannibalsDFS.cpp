@@ -74,4 +74,4 @@ int main() {
 
     dfs(3,3,1);
 
-}
+} //BFS explores the search space level by level and guarantees the shortest solution, whereas DFS explores one path deeply before backtracking and may not produce the optimal solution.
